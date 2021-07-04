@@ -2,7 +2,7 @@
 
 ## Basis-Aufgaben
 
-Im Quell-Ordner sind eine `Main`-Klasse und eine Reihe von *Interfaces* vorgegeben.
+Im Quell-Ordner sind eine `Application`-Klasse und eine Reihe von *Interfaces* vorgegeben.
 Ein Interface ist eine leere Klassenvorlage, die vorgibt, welche Methoden
 eine Klasse haben muss.
 
