@@ -1,11 +1,16 @@
 # Portfolio-Prüfung für Programmierung 2: Ortsbasierte Empfehlungsplattform (2. Scenario)
 
 ## Hintergrund
-Zwei Gründer eines Startups möchten eine Applikation entwickeln, die es Nutzern erlaubt, an unterschiedlichen Orten 
-einzuchecken und dafür Punkte zu sammeln. Dabei soll es für jeden Ort eine Rangliste der Check-Ins geführt werden. 
-Die Personen mit einer bestimmten Anzahl an Besuchen erhalten dafür Abzeichen. Außerdem soll es den Nutzenden 
-ermöglicht 
-werden, die in der Vergangenheit besuchten Orte anzeigen zu lassen.
+Zwei Gründer eines Startups möchten eine Reiseführer-App entwickeln, die es Nutzern erlaubt, an unterschiedlichen Orten 
+einzuchecken und die Orte zu beschreiben und zu bewerten. Dafür sollen die Benutzer Punkte sammeln.
+
+Es soll möglich sein, sich alle Orte anzeigen zu lassen.
+Dabei sollen für jeden Ort Beschreibungen, Bewertungen und statistische Daten,
+wie z.B. die Anzahl der Besuche angezeigt werden können.
+Dabei soll auch für alle Orte eine Rangliste der Check-Ins und der Bewertungen geführt werden. 
+
+Die Personen mit einer bestimmten Anzahl an Besuchen/Bewertungen erhalten dafür Abzeichen.
+Außerdem soll jeder Benutzer in seinem Profil die besuchten Orte sehen können.
 
 Jede/r Studierende soll nun ein Konzept und einen Applikationsprototyp einreichen.
 
