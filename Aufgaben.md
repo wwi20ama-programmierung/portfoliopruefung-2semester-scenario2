@@ -18,11 +18,20 @@ Ihre Klassen dürfen neben den vom Interface vorgegebenen Methoden noch weitere
 enthalten, wenn Sie das für sinnvoll halten. Die Interfaces dürfen allerdings nicht geändert werden!
 
 Am Ende dieses Abschnitts sollte eine einfache, funktionierende Anwendung stehen,
-mit der Ortsbesuche registriert und abgefragt werden können. Für jeden Ort soll eine Rangliste geführt werden, sowie 
-für jeden Nutzenden automatisiert Abzeichen vergeben werden:
+mit der Ortsbesuche registriert und abgefragt werden können. Für jeden Ort soll eine Rangliste geführt werden, sowie für jeden Nutzenden automatisiert Abzeichen vergeben werden:
 
 | Abzeichen | Mindestbesuche |
 | --------- | -------------- |
 | **Newbie** | 1 |
 | **Supporter** | 50 |
 | **Host** | 100 |
+
+
+## Fortgeschrittene Aufgaben
+
+Erweitern Sie die Applikation, so dass die Benutzer zusätzlich Bewertungen und Beschreibungen zu den
+Orten eingeben können. Dafür müssen Sie ggf. auch die Interfaces anpassen.
+
+Es soll dann möglich sein, diese Informationen anzeigen und im Besten Fall auch auswerten zu lassen.
+Bspw. kann eine Rangliste der beliebstesten Orte geführt werden oder es werden Empfehlungen generiert
+("Wer Ort A gut fand, mochte auch Ort B").
