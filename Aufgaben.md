@@ -29,9 +29,18 @@ mit der Ortsbesuche registriert und abgefragt werden können. Für jeden Ort sol
 
 ## Fortgeschrittene Aufgaben
 
-Erweitern Sie die Applikation, so dass die Benutzer zusätzlich Bewertungen und Beschreibungen zu den
-Orten eingeben können. Dafür müssen Sie ggf. auch die Interfaces anpassen.
+Erweitern Sie die Applikation, so dass mehr Informationen und Zusammenhänbge gespeichert bzw. abgerufen werden können. Alternativ/zusätzlich können Sie auch die Benutzbarkeit verbessern.
 
-Es soll dann möglich sein, diese Informationen anzeigen und im Besten Fall auch auswerten zu lassen.
-Bspw. kann eine Rangliste der beliebstesten Orte geführt werden oder es werden Empfehlungen generiert
-("Wer Ort A gut fand, mochte auch Ort B").
+Hier einige Ideen bzw. Beispiele:
+
+* Orte können bewertet werden, statt nur einzuchecken.
+  * Anzeige einer Rangliste der beliebtesten Orte
+  * Generierung von Empfehlungen: "Wer Ort A gut fand, mochte auch Ort B"
+* Identifizierung von "Touristenmagneten": Orte, die in letzter Zeit besonders häufig besucht wurden.
+* Eingabe von Beschreibungen/Informationen zu den Orten.
+  * allgemeine Reiseinfos
+  * tagesaktuelle Infos wie Wassertemperatur am Strand, Andrang in einem Restaurant etc.
+* GUI-Anwendung für den Reiseführer
+
+*Hinweis*: Sie müssen nicht alle obigen Ideen umsetzen.
+Suchen Sie sich etwas aus, das Ihnen sinnvoll und machbar erscheint und erweitern Sie die Anwendung entsprechend. Falls Sie weitere Ideen haben, können Sie diese auch gerne umsetzen.
