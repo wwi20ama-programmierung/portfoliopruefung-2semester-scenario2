@@ -43,4 +43,4 @@ Hier einige Ideen bzw. Beispiele:
 * GUI-Anwendung für den Reiseführer
 
 *Hinweis*: Sie müssen nicht alle obigen Ideen umsetzen.
-Suchen Sie sich etwas aus, das Ihnen sinnvoll und machbar erscheint und erweitern Sie die Anwendung entsprechend. Falls Sie weitere Ideen haben, können Sie diese auch gerne umsetzen.
+Suchen Sie sich etwas aus, das Ihnen sinnvoll und machbar erscheint und erweitern Sie die Anwendung entsprechend. Falls Sie weitere Ideen haben, können Sie diese auch gerne umsetzen. Die Basisaufgaben müssen zum Bestehen der Prüfung vollständig umgesetzt werden!
