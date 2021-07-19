@@ -32,7 +32,7 @@ Machen Sie sich auch über Randbedingungen Gedanken, also mit welchen "besondere
 - Diese Portfolioprüfung wird nicht in einer Gruppe, sondern **einzeln** bearbeitet und abgegeben. Eine (teilweise) Zusammenarbeit ist möglich, muss aber ausdrücklich in Code und Dokumentation gekennzeichnet werden. 
 - Pro Person ein verpflichtender Termin, bei dem der jeweilige Zwischenstand besprochen wird.
 - Ziel: Prüfung der Eigenständigkeit sowie Tipps bzw. Beratung durch die Dozenten.
-- Die verfügbaren Zeitslots werden im Moodle-Kurs hinterlegt.
+- Die Zeitpunkte werden individuell zwischen Studierenden und Dozenten vereinbart.
 - Die Bearbeitung muss zu diesem Zeitpunkt noch nicht vollständig sein. Sie sollten aber zumindest schon die Basis-Aufgaben gründlich bearbeitet haben, um eine gute Diskussionsgrundlage zu besitzen.
 - Die erfolgreiche Teilnahme am Abstimmungstermin ist Voraussetzung für das Bestehen der Prüfung.
 
